@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Idowu Fafioye
 <p align="center">
-  <img src="https://github.com/Olatunjhi.png" alt="Profile pic" width="150" />
+  <img src="https://github.com/Olatunjhi.png" alt="Profile pic" height="200" width="200" />
 </p>
 
 <!---
