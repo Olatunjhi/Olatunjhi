@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Idowu Fafioye
-
+<p align="center">
+  <img src="https://github.com/Olatunjhi.png" alt="Profile pic" width="150" />
+</p>
 
 <!---
 Olatunjhi/Olatunjhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
